@@ -22,8 +22,8 @@
   "/p__user__Login.js": "/p__user__Login.41fdd308.async.js",
   "/t__plugin-layout__Layout.css": "/t__plugin-layout__Layout.32b57dc7.chunk.css",
   "/t__plugin-layout__Layout.js": "/t__plugin-layout__Layout.8cd4f41b.async.js",
-  "/umi.css": "/umi.031cc459.css",
-  "/umi.js": "/umi.2c1ec3d0.js",
+  "/umi.css": "/umi.2cabf974.css",
+  "/umi.js": "/umi.dc423cf5.js",
   "/vendors~p__Data__Details.css": "/vendors~p__Data__Details.024c27e8.chunk.css",
   "/vendors~p__Data__Details.js": "/vendors~p__Data__Details.8df6483c.async.js",
   "/favicon.ico": "/favicon.ico",
@@ -33,5 +33,6 @@
   "/icons/icon-512x512.png": "/icons/icon-512x512.png",
   "/index.html": "/index.html",
   "/logo.svg": "/logo.svg",
-  "/pro_icon.svg": "/pro_icon.svg"
+  "/pro_icon.svg": "/pro_icon.svg",
+  "/static/logo.png": "/static/logo.7b614ad9.png"
 }
